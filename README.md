@@ -1,3 +1,5 @@
+> **Upstream migration (2026-11-10):** The source repository now publishes a README-only profile and retains its historical data outside Git. This fork deliberately preserves its earlier catalog and resources for reference. See [the captured upstream README](upstream-snapshot-2026-11-10/README.md) and [the upstream .gitignore](upstream-snapshot-2026-11-10/.gitignore). The source commit is included as a merge parent for provenance.
+
 # Navis (Kaleris) (navis)
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
